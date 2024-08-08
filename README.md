@@ -1,15 +1,9 @@
 - 👋 Hi, I’m Santhosh R
-- 👀 I’m interested in  Structured Querry Language
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<h1 align="center">Hi 👋, I'm Kavishna Ramdoss</h1>
-<h3 align="center">A passionate Frontend Developer.</h3>
+- 👀 I’m interested in  Data Analysts
+- 🌱 I’m currently learning Python,SQL,Frontend Tools
+- 📫 How to reach me santhoshraj7204@gmail.com
+- ⚡ Fun fact: the time you built an lkea dresser in an hour flat.
+- 
 
 <img align="center" alt="coding" width="400" src="https://cdn.lowgif.com/full/9cb12f51dffbaaa6-character-typing-by-vincent-mokuenko-dribbble.gif">
 
